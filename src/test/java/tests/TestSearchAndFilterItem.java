@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 import static org.junit.Assert.*;
 
-public class TestsFrontFravega extends TestBase{
+public class TestSearchAndFilterItem extends TestBase{
 
     public static IndexPage indexPage;
     public static ItemPage itemPage;
