@@ -1,4 +1,4 @@
-Test sobre la página de Frávega, usando:
+Test sobre la página web E-Comerce:
 
 *Java => 15 
 
