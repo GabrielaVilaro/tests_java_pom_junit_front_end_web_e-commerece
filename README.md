@@ -1,4 +1,4 @@
-Test sobre la página web E-Comerce:
+Test sobre la página web E-Commerce:
 
 *Java => 15 
 
