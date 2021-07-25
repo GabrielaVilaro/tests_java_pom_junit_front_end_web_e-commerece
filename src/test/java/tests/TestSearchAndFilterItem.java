@@ -1,13 +1,10 @@
 package tests;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import pages.IndexPage;
 import pages.ItemPage;
-
 import java.util.logging.Logger;
-
 import static org.junit.Assert.*;
 
 public class TestSearchAndFilterItem extends TestBase{
